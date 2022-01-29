@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/huangbaole/data/project/ihandy/Test/UnityAssets/UnityAssets/UnityAssets.csproj": {}
+  },
+  "projects": {
+    "/Users/huangbaole/data/project/ihandy/Test/UnityAssets/UnityAssets/UnityAssets.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/huangbaole/data/project/ihandy/Test/UnityAssets/UnityAssets/UnityAssets.csproj",
+        "projectName": "UnityAssets",
+        "projectPath": "/Users/huangbaole/data/project/ihandy/Test/UnityAssets/UnityAssets/UnityAssets.csproj",
+        "packagesPath": "/Users/huangbaole/.nuget/packages/",
+        "outputPath": "/Users/huangbaole/data/project/ihandy/Test/UnityAssets/UnityAssets/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/huangbaole/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "K4os.Compression.LZ4": {
+              "target": "Package",
+              "version": "[1.2.16, )"
+            },
+            "Mono.Cecil": {
+              "target": "Package",
+              "version": "[0.11.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

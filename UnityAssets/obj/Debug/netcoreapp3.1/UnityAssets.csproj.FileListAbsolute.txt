@@ -1,0 +1,16 @@
+/Users/huangbaole/data/project/ihandy/Test/UnityAssets/UnityAssets/obj/Debug/netcoreapp3.1/UnityAssets.csprojAssemblyReference.cache
+/Users/huangbaole/data/project/ihandy/Test/UnityAssets/UnityAssets/obj/Debug/netcoreapp3.1/UnityAssets.csproj.CoreCompileInputs.cache
+/Users/huangbaole/data/project/ihandy/Test/UnityAssets/UnityAssets/bin/Debug/netcoreapp3.1/UnityAssets.deps.json
+/Users/huangbaole/data/project/ihandy/Test/UnityAssets/UnityAssets/bin/Debug/netcoreapp3.1/UnityAssets.runtimeconfig.json
+/Users/huangbaole/data/project/ihandy/Test/UnityAssets/UnityAssets/bin/Debug/netcoreapp3.1/UnityAssets.runtimeconfig.dev.json
+/Users/huangbaole/data/project/ihandy/Test/UnityAssets/UnityAssets/bin/Debug/netcoreapp3.1/UnityAssets.dll
+/Users/huangbaole/data/project/ihandy/Test/UnityAssets/UnityAssets/bin/Debug/netcoreapp3.1/UnityAssets.pdb
+/Users/huangbaole/data/project/ihandy/Test/UnityAssets/UnityAssets/bin/Debug/netcoreapp3.1/K4os.Compression.LZ4.dll
+/Users/huangbaole/data/project/ihandy/Test/UnityAssets/UnityAssets/bin/Debug/netcoreapp3.1/Mono.Cecil.Mdb.dll
+/Users/huangbaole/data/project/ihandy/Test/UnityAssets/UnityAssets/bin/Debug/netcoreapp3.1/Mono.Cecil.Pdb.dll
+/Users/huangbaole/data/project/ihandy/Test/UnityAssets/UnityAssets/bin/Debug/netcoreapp3.1/Mono.Cecil.Rocks.dll
+/Users/huangbaole/data/project/ihandy/Test/UnityAssets/UnityAssets/bin/Debug/netcoreapp3.1/Mono.Cecil.dll
+/Users/huangbaole/data/project/ihandy/Test/UnityAssets/UnityAssets/obj/Debug/netcoreapp3.1/UnityAssets.csproj.CopyComplete
+/Users/huangbaole/data/project/ihandy/Test/UnityAssets/UnityAssets/obj/Debug/netcoreapp3.1/UnityAssets.dll
+/Users/huangbaole/data/project/ihandy/Test/UnityAssets/UnityAssets/obj/Debug/netcoreapp3.1/UnityAssets.pdb
+/Users/huangbaole/data/project/ihandy/Test/UnityAssets/UnityAssets/obj/Debug/netcoreapp3.1/UnityAssets.genruntimeconfig.cache

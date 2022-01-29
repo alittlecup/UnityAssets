@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dpaJFmnSkiv6sA6sNeVoLXsMRw1ErtOGoBtzONkD2ihuORyipEzaMQCkoJDqkFiZdRFTvY//Tuy/hi1axAOXUg==",
+  "success": true,
+  "projectFilePath": "/Users/huangbaole/data/project/ihandy/Test/UnityAssets/UnityAssets/UnityAssets.csproj",
+  "expectedPackageFiles": [
+    "/Users/huangbaole/.nuget/packages/k4os.compression.lz4/1.2.16/k4os.compression.lz4.1.2.16.nupkg.sha512",
+    "/Users/huangbaole/.nuget/packages/mono.cecil/0.11.4/mono.cecil.0.11.4.nupkg.sha512"
+  ],
+  "logs": []
+}
